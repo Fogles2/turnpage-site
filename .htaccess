@@ -1,0 +1,2 @@
+# Ensure PHP index takes precedence so maintenance gate works
+DirectoryIndex index.php index.html
